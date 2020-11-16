@@ -1,0 +1,6 @@
+# add venv to .gitignore for filesizes
+venv/
+.idea/
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+**/.idea/
